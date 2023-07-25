@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\WordFilterTryItPage\bin\Debug\WordFilterTryItPage.exe.config
+C:\Users\alexa\source\repos\WordFilterTryItPage\bin\Debug\WordFilterTryItPage.exe
+C:\Users\alexa\source\repos\WordFilterTryItPage\bin\Debug\WordFilterTryItPage.pdb
+C:\Users\alexa\source\repos\WordFilterTryItPage\obj\Debug\WordFilterTryItPage.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\WordFilterTryItPage\obj\Debug\WordFilterTryItPage.Form1.resources
+C:\Users\alexa\source\repos\WordFilterTryItPage\obj\Debug\WordFilterTryItPage.Properties.Resources.resources
+C:\Users\alexa\source\repos\WordFilterTryItPage\obj\Debug\WordFilterTryItPage.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\WordFilterTryItPage\obj\Debug\WordFilterTryItPage.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\WordFilterTryItPage\obj\Debug\WordFilterTryItPage.exe
+C:\Users\alexa\source\repos\WordFilterTryItPage\obj\Debug\WordFilterTryItPage.pdb

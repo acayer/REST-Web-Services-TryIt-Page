@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\WordFilterService\bin\WordFilterService.dll.config
+C:\Users\alexa\source\repos\WordFilterService\bin\WordFilterService.dll
+C:\Users\alexa\source\repos\WordFilterService\bin\WordFilterService.pdb
+C:\Users\alexa\source\repos\WordFilterService\obj\Debug\WordFilterService.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\WordFilterService\obj\Debug\WordFilterService.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\WordFilterService\obj\Debug\WordFilterService.dll
+C:\Users\alexa\source\repos\WordFilterService\obj\Debug\WordFilterService.pdb
+C:\Users\alexa\source\repos\WordFilterService\bin\Newtonsoft.Json.dll
+C:\Users\alexa\source\repos\WordFilterService\bin\Newtonsoft.Json.xml
+C:\Users\alexa\source\repos\WordFilterService\obj\Debug\WordFilterService.csproj.CopyComplete
